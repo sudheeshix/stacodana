@@ -1,2 +1,2 @@
 # stacodana
-Static Code Analyzer for .NET assemblies that generates call-graphs
+Static Code Analyzer for .NET assemblies. Generates call-graphs.
